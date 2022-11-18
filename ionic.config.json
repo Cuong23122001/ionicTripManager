@@ -1,0 +1,7 @@
+{
+  "name": "ionicTripManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
